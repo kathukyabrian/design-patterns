@@ -19,9 +19,9 @@ public class Singleton {
 
     //Game Development
     //Single script monitors -> use it in the entire game
+    // If you need to maintain state
 
     // Development
-    // If you need to maintain state
     // DB : if anyone is writing anything, we want one guy to maintain that
     // 1 object........
 
